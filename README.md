@@ -1,8 +1,8 @@
-# 👀
+# 🤫
 
-# Past Projects
+## Projects
 
-## EA Sports FC Title
+### EA Sports FC Title
 <img src="./images/ea-sports-fc.webp" alt="EA Sports FC" width="500">
 
 **Electronic Arts**
@@ -12,7 +12,7 @@
 C++ development for PC, PS5, XSX.
 * Leading a small team of engineers assigned to plan and implment career mode features.
 
-## EA Sports WRC (2023)
+### EA Sports WRC (2023)
 <img src="./images/ea-sports-wrc.webp" alt="EA Sports WRC" width="500">
 
 **Electronic Arts**
@@ -24,7 +24,7 @@ C++ development for PC, PS5, XSX, including Unreal Engine and  Wwise audio middl
 * Worked on audio gameplay systems including vehicles, collisions, reflections, animations,  UI and environmental audio.
 * Additional physics code maintenance to fix collision/entity issues.
 
-## Grid Legends (2022)
+### Grid Legends (2022)
 <img src="./images/grid-legends.webp" alt="Grid Legends" width="500">
 
 **Electronic Arts**
@@ -34,7 +34,7 @@ C++ development for PC, PS5, XSX, including Unreal Engine and  Wwise audio middl
 C++ development for PC, PS5, XSX.
 * Worked on various game modes including related networking and UI support.
 
-## Total War: Warhammer III (2022)
+### Total War: Warhammer III (2022)
 <img src="./images/total-war-warhammer-3.webp" alt="Total War: Warhammer 3" width="500">
 
 **Creative Assembly**
@@ -44,7 +44,7 @@ C++ development for PC, PS5, XSX.
 C++ development for PC, including Wwise audio middleware.
 * Worked on audio gameplay systems including  animation runtime logic and tools, dialogue, environmental audio.
 
-## Rednet Control
+### Rednet Control
 <img src="./images/rednet-control.webp" alt="Rednet Control" width="500">
 
 **Focusrite**
@@ -55,7 +55,7 @@ C++ desktop application development for Windows/MacOS using the Qt framework.
 * UI implementation, communications between software and audio hardware.
 * Set up Jenkins build automation and Windows installer support using Inno Setup.
 
-## Grid (2019)
+### Grid (2019)
 <img src="./images/grid-2019.webp" alt="Grid 2019" width="500">
 
 **Codemasters**
@@ -65,3 +65,4 @@ C++ desktop application development for Windows/MacOS using the Qt framework.
 C++ development for PC, PS4, Xbox One, including Wwise audio middleware.
 * Worked on audio gameplay systems including vehicles, collisions, reflections, reverb, dialogue, UI, environmental audio and memory management.
 * C# audio tools programming, including dialogue tools.</p>
+* Recommended by my colleagues for the [Game Dev Heroes 2019 award](https://gamedevheroes.co/2019-shortlist/).
