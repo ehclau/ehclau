@@ -10,7 +10,7 @@
 <em>Software Engineer II</em>
 <br><br>
 C++ development for PC, PS5, XSX.
-* Leading a small team of engineers assigned to plan and implement career mode features.
+* Leading a small team of engineers joining FC for the first time to plan and implement career mode features.
 
 ### EA Sports WRC (2023)
 <img src="./images/ea-sports-wrc.webp" alt="EA Sports WRC" width="500">
