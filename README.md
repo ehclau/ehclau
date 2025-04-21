@@ -2,7 +2,7 @@
 
 ## Projects
 
-### EA Sports FC Title
+### EA Sports FC
 <img src="./images/ea-sports-fc.webp" alt="EA Sports FC" width="500">
 
 **Electronic Arts**
