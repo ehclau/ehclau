@@ -2,6 +2,16 @@
 
 # Past Projects
 
+## EA Sports FC Title
+<img src="./images/ea-sports-fc.webp" alt="EA Sports FC" width="500">
+
+**Electronic Arts**
+<br>
+<em>Software Engineer II</em>
+<br><br>
+C++ development for PC, PS5, XSX.
+* Leading a small team of engineers assigned to plan and implment career mode features.
+
 ## EA Sports WRC (2023)
 <img src="./images/ea-sports-wrc.webp" alt="EA Sports WRC" width="500">
 
