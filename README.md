@@ -3,8 +3,9 @@
 # Past Projects
 
 ## EA Sports WRC (2023)
+<img src="./images/ea-sports-wrc.webp" alt="EA Sports WRC" width="500">
+
 **Electronic Arts**
-<img src="./images/ea-sports-wrc.webp" align="right" alt="EA Sports WRC" width="500">
 <br>
 <em>Software Engineer II</em>
 <br><br>
@@ -14,30 +15,29 @@ C++ development for PC, PS5, XSX, including Unreal Engine and  Wwise audio middl
 * Additional physics code maintenance to fix collision/entity issues.
 
 ## Grid Legends (2022)
+<img src="./images/grid-legends.webp" alt="Grid Legends" width="500">
+
 **Electronic Arts**
-<img src="./images/grid-legends.webp" align="right" alt="Grid Legends" width="500">
 <br>
 <em>Software Engineer I</em>
 <br><br>
 C++ development for PC, PS5, XSX.
 * Worked on various game modes including related networking and UI support.
 
-<br><br><br><br><br>
-
 ## Total War: Warhammer III (2022)
+<img src="./images/total-war-warhammer-3.webp" alt="Total War: Warhammer 3" width="500">
+
 **Creative Assembly**
-<img src="./images/total-war-warhammer-3.webp" align="right" alt="Total War: Warhammer 3" width="500">
 <br>
 <em>Audio Programmer</em>
 <br><br>
 C++ development for PC, including Wwise audio middleware.
 * Worked on audio gameplay systems including  animation runtime logic and tools, dialogue, environmental audio.
 
-<br><br><br><br><br>
-
 ## Rednet Control
+<img src="./images/rednet-control.webp" alt="Rednet Control" width="500">
+
 **Focusrite**
-<img src="./images/rednet-control.webp" align="right" alt="Rednet Control" width="500">
 <br>
 <em>Junior Software Engineer</em>
 <br><br>
@@ -45,11 +45,10 @@ C++ desktop application development for Windows/MacOS using the Qt framework.
 * UI implementation, communications between software and audio hardware.
 * Set up Jenkins build automation and Windows installer support using Inno Setup.
 
-<br><br>
-
 ## Grid (2019)
+<img src="./images/grid-2019.webp" alt="Grid 2019" width="500">
+
 **Codemasters**
-<img src="./images/grid-2019.webp" align="right" alt="Grid 2019" width="500">
 <br>
 <em>Programmer</em>
 <br><br>
