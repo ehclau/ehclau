@@ -1,5 +1,8 @@
 # 🤫
 
+Software developer
+<br>Formerly at [Electronic Arts](https://ea.com), [Creative Assembly](https://www.creative-assembly.com/), [Focusrite](https://focusrite.com/) and [Codemasters](https://www.ea.com/ea-studios/codemasters).
+
 ## Projects
 
 ### EA Sports FC
